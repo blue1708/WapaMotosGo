@@ -42,7 +42,7 @@ export default function SidebarLat() {
             <Sidebar visible={visible} onHide={() => setVisible(false)} className="sidebar-lat">
                 <div className="flex flex-wrap align-items-center justify-content-between flex-shrink-0">
                     <img src='https://cdn.leonardo.ai/users/7b67fc69-fcab-4626-a807-ccd0084f2bca/generations/080fab14-c671-4b84-90a2-29addc1a4c70/Default_crea_un_logo_que_tenga_que_ver_cos_las_letras_LLA_sobr_3.jpg?w=512' alt="Logo de BDS" className="logo" />
-                    <h2 className="nombre">Wapayasos</h2>
+                    <h2 className="nombre">WapaMotosGo</h2>
                 </div>
                 <hr className="mb-3 mx-3 border-top-1 border-none surface-border" />
                 <div className="overflow-y-auto">
