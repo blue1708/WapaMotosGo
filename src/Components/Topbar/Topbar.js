@@ -29,7 +29,7 @@ const Topbar = () => {
                 <i className="pi pi-calendar" />
               </div>
               <LogoutButton/>
-              <p>WapaMotoGo</p>
+              <p>WapaMotosGo</p>
               {/* Agrega más información aquí */}
             </div>
           </div>
