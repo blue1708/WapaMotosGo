@@ -26,7 +26,9 @@ const Topbar = () => {
               <div className="icons-container">
                 <i className="pi pi-comment" /> 
                 <i className="pi pi-envelope" /> 
-                <i className="pi pi-calendar" />
+                <a href='https://calendar.google.com'>
+                  <i className="pi pi-calendar" />
+                  </a>
               </div>
               <LogoutButton/>
               <p>WapaMotosGo</p>
