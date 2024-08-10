@@ -14,8 +14,7 @@ root.render(
     domain= "dev-wdp08yctszgmiapp.us.auth0.com"
     clientId="Bpsb9GFbMZz27SEWb7OI1f6M7rphdSwi"
     authorizationParams={{
-    //redirect_uri: "https://blue1708.github.io/WapaMotosGo"
-    redirect_uri: window.location.origin
+    redirect_uri: "https://blue1708.github.io/WapaMotosGo"
     }}>
       <BrowserRouter>
         <App />
